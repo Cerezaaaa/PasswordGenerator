@@ -11,7 +11,7 @@ A Simple Password Generator with a modern user interface build for windows deskt
 This app simply made during my college days to fullfill my boredom.
 The appearance is inspired by one of video tutorials in Bunifu UI Framework. 
 
-![Preview](https://github.com/Cerezaaaa/PasswordGenerator/blob/master/Preview.png)
+![Preview](https://imgur.com/4Dqv9z8)
 
 ## Features
 * Create a strong password between 8 - 128 chars
