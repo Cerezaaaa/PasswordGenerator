@@ -2,6 +2,10 @@
 
 A Simple Password Generator with a modern user interface build for windows desktop
 
+## Libraries
+
+* <a href="https://github.com/prjseal/PasswordGenerator"> PasswordGenerator </a>
+
 ## Appearance
 
 This app simply made during my college days to fullfill my boredom.
